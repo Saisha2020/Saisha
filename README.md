@@ -1,2 +1,2 @@
-# Saisha
-this is a white hat j r. project, called the tower siege made by Saisha Sahni
+# p5.play-boilerplate
+Boiler plate for p5.play
